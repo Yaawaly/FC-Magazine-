@@ -57,7 +57,7 @@
         }
     </style>
 </head>
-<body class="bg-gray-50 text-gray-800">
+<body class="bg-gray-50 text-gray-800"> <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- شريط التنقل -->
     <nav class="bg-white shadow-md sticky top-0 z-50">
         <div class="container mx-auto px-4">
@@ -67,7 +67,7 @@
                     <div class="w-10 h-10 bg-amber-500 rounded-full flex items-center justify-center">
                         <i class="fas fa-book text-white text-lg"></i>
                     </div>
-                    <span class="text-xl font-bold text-blue-900" data-i18n="journal_title">المجلة الفولانية</span>
+                    <span class="text-xl font-bold text-blue-900" data-i18n="journal_title">المجلة الفولانية</span> <meta name="description" content="مجلة التاريخ والثقافة الفولانية - منصة متعددة اللغات للتراث الفولاني">
                 </div>
 
                 <!-- روابط التنقل -->
